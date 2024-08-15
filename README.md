@@ -32,9 +32,10 @@ The behavior of the leftmost bits depends on whether the type is signed or unsig
 ## Code -
 ### 1. Bitwise operators
 ```
-//subham
-//2370123132
-//entc b2
+//Soham
+//23070123084
+//entc b1
+//experiment 4
 #include<iostream>
 using namespace std;
 int main()
