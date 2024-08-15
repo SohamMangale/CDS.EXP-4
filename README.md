@@ -60,17 +60,17 @@ int main()
 ## Explanation -
 Bitwise operators perform operations on the individual bits of data. They include:
 
-### AND (&):- Sets each bit to 1 if both bits are 1.
+#### AND (&):- Sets each bit to 1 if both bits are 1.
 
-### OR (|):- Sets each bit to 1 if at least one bit is 1.
+#### OR (|):- Sets each bit to 1 if at least one bit is 1.
 
-### XOR (^):- Sets each bit to 1 if only one bit is 1.
+#### XOR (^):- Sets each bit to 1 if only one bit is 1.
 
-### NOT (~):- Inverts all the bits.
+#### NOT (~):- Inverts all the bits.
 
-### Left Shift (<<):- Shifts bits to the left, filling with 0s.
+#### Left Shift (<<):- Shifts bits to the left, filling with 0s.
 
-### Right Shift (>>):- Shifts bits to the right, filling with 0s (logical shift).
+#### Right Shift (>>):- Shifts bits to the right, filling with 0s (logical shift).
 
 ## Output -
 ### 1.Bitwise Operators -![image](https://github.com/user-attachments/assets/94ff6233-adfd-4607-ae01-d7bc81987c9e)
