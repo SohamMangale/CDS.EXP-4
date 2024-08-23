@@ -58,6 +58,9 @@ int main()
     return 0;
 }
 ```
+### 2. Bitwise operators
+~~~
+
 ## Explanation -
 Bitwise operators perform operations on the individual bits of data. They include:
 
